@@ -1,1 +1,1 @@
-My second readme
+This project is just an introduction to shell
